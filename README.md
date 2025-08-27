@@ -29,8 +29,8 @@ I’ve worked with global organizations like **Caterpillar, Infosys, and TCS**, 
 ---
 
 ## 🌐 Connect With Me  
-- [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/varun-achar-m-n/))  
-- [GitHub]([https://github.com/](https://github.com/hayavar/hayavar))   
+- [LinkedIn]-[https://www.linkedin.com/](https://www.linkedin.com/in/varun-achar-m-n/)
+- [GitHub]-[https://github.com/](https://github.com/hayavar/hayavar)  
 
 ---
 ⭐️ *Always exploring the next way AI & automation can make work smarter.*
